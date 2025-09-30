@@ -12,23 +12,22 @@ using System.Windows.Forms;
 
 namespace MenteSanaPre
 {
-    public partial class FrmCrud : Form
+    public partial class FrmCRUD : Form
     {
         private Persona objPersona = null;
         private Rol objRol = null;
         private readonly PersonaLn objPersonaLn = new PersonaLn();
         private RolLn objRolLn = new RolLn();
-
-        public FrmCrud()
+        public FrmCRUD()
         {
             InitializeComponent();
             CargarListaClientes();
-            ListarTipoClientes();
+            ListarRol();
         }
 
         private void CargarListaClientes()
         {
-            objPersona = new Persona();
+            objPersona  = new Persona();
             objPersonaLn.Index(ref objPersona);
             if (objPersona.MensajeError == null)
             {
@@ -40,14 +39,14 @@ namespace MenteSanaPre
             }
         }
 
-        private void ListarTipoClientes()
+        private void ListarRol()
         {
             objRol = new Rol();
             objRolLn.Index(ref objRol);
             if (objRol.MensajeError == null)
             {
                 cmbRol.DataSource = objRol.DtResultados;
-                cmbRol.DisplayMember = "nombre";
+                cmbRol.DisplayMember = "Nombre";
                 cmbRol.ValueMember = "id_rol";
             }
             else
@@ -56,10 +55,7 @@ namespace MenteSanaPre
             }
         }
 
-
-
-
-        private void Form1_Load(object sender, EventArgs e)
+        private void FrmCRUD_Load(object sender, EventArgs e)
         {
 
         }

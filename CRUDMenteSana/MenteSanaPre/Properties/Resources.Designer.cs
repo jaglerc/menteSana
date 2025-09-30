@@ -73,16 +73,6 @@ namespace MenteSanaPre.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap MenteSana_logo1 {
-            get {
-                object obj = ResourceManager.GetObject("MenteSana_logo1", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
-        /// </summary>
         internal static System.Drawing.Bitmap PascualBravo_Logo {
             get {
                 object obj = ResourceManager.GetObject("PascualBravo_Logo", resourceCulture);

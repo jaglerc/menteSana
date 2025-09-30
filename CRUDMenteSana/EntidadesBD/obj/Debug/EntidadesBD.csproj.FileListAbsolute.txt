@@ -1,0 +1,6 @@
+D:\users\User\Desktop\menteSana\CRUDMenteSana\EntidadesBD\bin\Debug\EntidadesBD.dll
+D:\users\User\Desktop\menteSana\CRUDMenteSana\EntidadesBD\bin\Debug\EntidadesBD.pdb
+D:\users\User\Desktop\menteSana\CRUDMenteSana\EntidadesBD\obj\Debug\EntidadesBD.csproj.AssemblyReference.cache
+D:\users\User\Desktop\menteSana\CRUDMenteSana\EntidadesBD\obj\Debug\EntidadesBD.csproj.CoreCompileInputs.cache
+D:\users\User\Desktop\menteSana\CRUDMenteSana\EntidadesBD\obj\Debug\EntidadesBD.dll
+D:\users\User\Desktop\menteSana\CRUDMenteSana\EntidadesBD\obj\Debug\EntidadesBD.pdb

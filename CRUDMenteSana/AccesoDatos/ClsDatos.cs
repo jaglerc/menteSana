@@ -74,7 +74,7 @@ namespace AccesoDatos
         {
             switch (objDatos.NombreDB)
             {
-                case "dbBufet":
+                case "DBMenteSana":
                     objDatos.ObjSqlConnection = new SqlConnection(AccesoDatos.Properties.Settings.Default.ConexMenteSana);
                     break;
             }
