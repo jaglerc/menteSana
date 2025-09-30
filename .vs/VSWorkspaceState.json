@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\CRUDMenteSana",
+    "\\CRUDMenteSana\\AccesoDatos"
   ],
-  "SelectedNode": "\\CRUDMenteSana.sln",
+  "SelectedNode": "\\CRUDMenteSana\\AccesoDatos\\ClsDatos.cs",
   "PreviewInSolutionExplorer": false
 }

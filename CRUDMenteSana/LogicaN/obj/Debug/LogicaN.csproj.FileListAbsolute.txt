@@ -10,3 +10,15 @@ D:\users\User\Desktop\menteSana\CRUDMenteSana\LogicaN\obj\Debug\LogicaN.csproj.C
 D:\users\User\Desktop\menteSana\CRUDMenteSana\LogicaN\obj\Debug\LogicaN.csproj.Up2Date
 D:\users\User\Desktop\menteSana\CRUDMenteSana\LogicaN\obj\Debug\LogicaN.dll
 D:\users\User\Desktop\menteSana\CRUDMenteSana\LogicaN\obj\Debug\LogicaN.pdb
+C:\Users\Admin\menteSana\CRUDMenteSana\LogicaN\bin\Debug\LogicaN.dll
+C:\Users\Admin\menteSana\CRUDMenteSana\LogicaN\bin\Debug\LogicaN.pdb
+C:\Users\Admin\menteSana\CRUDMenteSana\LogicaN\bin\Debug\AccesoDatos.dll
+C:\Users\Admin\menteSana\CRUDMenteSana\LogicaN\bin\Debug\EntidadesBD.dll
+C:\Users\Admin\menteSana\CRUDMenteSana\LogicaN\bin\Debug\AccesoDatos.pdb
+C:\Users\Admin\menteSana\CRUDMenteSana\LogicaN\bin\Debug\AccesoDatos.dll.config
+C:\Users\Admin\menteSana\CRUDMenteSana\LogicaN\bin\Debug\EntidadesBD.pdb
+C:\Users\Admin\menteSana\CRUDMenteSana\LogicaN\obj\Debug\LogicaN.csproj.AssemblyReference.cache
+C:\Users\Admin\menteSana\CRUDMenteSana\LogicaN\obj\Debug\LogicaN.csproj.CoreCompileInputs.cache
+C:\Users\Admin\menteSana\CRUDMenteSana\LogicaN\obj\Debug\LogicaN.csproj.Up2Date
+C:\Users\Admin\menteSana\CRUDMenteSana\LogicaN\obj\Debug\LogicaN.dll
+C:\Users\Admin\menteSana\CRUDMenteSana\LogicaN\obj\Debug\LogicaN.pdb

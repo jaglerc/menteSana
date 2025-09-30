@@ -1,50 +1,61 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\users\\User\\Desktop\\menteSana\\CRUDMenteSana\\",
+  "WorkspaceRootPath": "C:\\Users\\Admin\\menteSana\\CRUDMenteSana\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F1B91FE8-1654-4BC3-B9BD-4544E023809D}|MenteSanaPre\\MenteSanaPre.csproj|D:\\users\\User\\Desktop\\menteSana\\CRUDMenteSana\\mentesanapre\\frmcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F1B91FE8-1654-4BC3-B9BD-4544E023809D}|MenteSanaPre\\MenteSanaPre.csproj|solutionrelative:mentesanapre\\frmcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1654A2AC-272B-4499-9CDC-C90C9473834F}|AccesoDatos\\AccesoDatos.csproj|d:\\users\\user\\desktop\\mentesana\\crudmentesana\\accesodatos\\clsdatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1654A2AC-272B-4499-9CDC-C90C9473834F}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\clsdatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FD6F7989-EC1C-4864-B918-341310363EF1}|LogicaN\\LogicaN.csproj|D:\\users\\User\\Desktop\\menteSana\\CRUDMenteSana\\logican\\personaln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD6F7989-EC1C-4864-B918-341310363EF1}|LogicaN\\LogicaN.csproj|solutionrelative:logican\\personaln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1B91FE8-1654-4BC3-B9BD-4544E023809D}|MenteSanaPre\\MenteSanaPre.csproj|D:\\users\\User\\Desktop\\menteSana\\CRUDMenteSana\\mentesanapre\\frmcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F1B91FE8-1654-4BC3-B9BD-4544E023809D}|MenteSanaPre\\MenteSanaPre.csproj|C:\\Users\\Admin\\menteSana\\CRUDMenteSana\\mentesanapre\\frmcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F1B91FE8-1654-4BC3-B9BD-4544E023809D}|MenteSanaPre\\MenteSanaPre.csproj|solutionrelative:mentesanapre\\frmcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D771C83-5071-4585-B9CF-9EE0BDB0D6BA}|EntidadesBD\\EntidadesBD.csproj|D:\\users\\User\\Desktop\\menteSana\\CRUDMenteSana\\entidadesbd\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F1B91FE8-1654-4BC3-B9BD-4544E023809D}|MenteSanaPre\\MenteSanaPre.csproj|C:\\Users\\Admin\\menteSana\\CRUDMenteSana\\mentesanapre\\frmcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1B91FE8-1654-4BC3-B9BD-4544E023809D}|MenteSanaPre\\MenteSanaPre.csproj|solutionrelative:mentesanapre\\frmcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1654A2AC-272B-4499-9CDC-C90C9473834F}|AccesoDatos\\AccesoDatos.csproj|c:\\users\\admin\\mentesana\\crudmentesana\\accesodatos\\clsdatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1654A2AC-272B-4499-9CDC-C90C9473834F}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\clsdatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD6F7989-EC1C-4864-B918-341310363EF1}|LogicaN\\LogicaN.csproj|c:\\users\\admin\\mentesana\\crudmentesana\\logican\\personaln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD6F7989-EC1C-4864-B918-341310363EF1}|LogicaN\\LogicaN.csproj|solutionrelative:logican\\personaln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D771C83-5071-4585-B9CF-9EE0BDB0D6BA}|EntidadesBD\\EntidadesBD.csproj|C:\\Users\\Admin\\menteSana\\CRUDMenteSana\\entidadesbd\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1D771C83-5071-4585-B9CF-9EE0BDB0D6BA}|EntidadesBD\\EntidadesBD.csproj|solutionrelative:entidadesbd\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D771C83-5071-4585-B9CF-9EE0BDB0D6BA}|EntidadesBD\\EntidadesBD.csproj|D:\\users\\User\\Desktop\\menteSana\\CRUDMenteSana\\entidadesbd\\reporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3F9F2CB4-B081-405B-8C29-1CACBF6754A4}|Presentacion{3F9F2CB4-B081-405B-8C29-1CACBF6754A4}|MenteSanaPre||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1B91FE8-1654-4BC3-B9BD-4544E023809D}|MenteSanaPre\\MenteSanaPre.csproj|C:\\Users\\Admin\\menteSana\\CRUDMenteSana\\mentesanapre\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1B91FE8-1654-4BC3-B9BD-4544E023809D}|MenteSanaPre\\MenteSanaPre.csproj|solutionrelative:mentesanapre\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD6F7989-EC1C-4864-B918-341310363EF1}|LogicaN\\LogicaN.csproj|c:\\users\\admin\\mentesana\\crudmentesana\\logican\\rolln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD6F7989-EC1C-4864-B918-341310363EF1}|LogicaN\\LogicaN.csproj|solutionrelative:logican\\rolln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D771C83-5071-4585-B9CF-9EE0BDB0D6BA}|EntidadesBD\\EntidadesBD.csproj|C:\\Users\\Admin\\menteSana\\CRUDMenteSana\\entidadesbd\\estado_emocional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D771C83-5071-4585-B9CF-9EE0BDB0D6BA}|EntidadesBD\\EntidadesBD.csproj|solutionrelative:entidadesbd\\estado_emocional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D771C83-5071-4585-B9CF-9EE0BDB0D6BA}|EntidadesBD\\EntidadesBD.csproj|C:\\Users\\Admin\\menteSana\\CRUDMenteSana\\entidadesbd\\reporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1D771C83-5071-4585-B9CF-9EE0BDB0D6BA}|EntidadesBD\\EntidadesBD.csproj|solutionrelative:entidadesbd\\reporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D771C83-5071-4585-B9CF-9EE0BDB0D6BA}|EntidadesBD\\EntidadesBD.csproj|D:\\users\\User\\Desktop\\menteSana\\CRUDMenteSana\\entidadesbd\\alerta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1D771C83-5071-4585-B9CF-9EE0BDB0D6BA}|EntidadesBD\\EntidadesBD.csproj|C:\\Users\\Admin\\menteSana\\CRUDMenteSana\\entidadesbd\\alerta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1D771C83-5071-4585-B9CF-9EE0BDB0D6BA}|EntidadesBD\\EntidadesBD.csproj|solutionrelative:entidadesbd\\alerta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D771C83-5071-4585-B9CF-9EE0BDB0D6BA}|EntidadesBD\\EntidadesBD.csproj|D:\\users\\User\\Desktop\\menteSana\\CRUDMenteSana\\entidadesbd\\recomendacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1D771C83-5071-4585-B9CF-9EE0BDB0D6BA}|EntidadesBD\\EntidadesBD.csproj|C:\\Users\\Admin\\menteSana\\CRUDMenteSana\\entidadesbd\\recomendacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1D771C83-5071-4585-B9CF-9EE0BDB0D6BA}|EntidadesBD\\EntidadesBD.csproj|solutionrelative:entidadesbd\\recomendacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D771C83-5071-4585-B9CF-9EE0BDB0D6BA}|EntidadesBD\\EntidadesBD.csproj|D:\\users\\User\\Desktop\\menteSana\\CRUDMenteSana\\entidadesbd\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1D771C83-5071-4585-B9CF-9EE0BDB0D6BA}|EntidadesBD\\EntidadesBD.csproj|C:\\Users\\Admin\\menteSana\\CRUDMenteSana\\entidadesbd\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1D771C83-5071-4585-B9CF-9EE0BDB0D6BA}|EntidadesBD\\EntidadesBD.csproj|solutionrelative:entidadesbd\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D771C83-5071-4585-B9CF-9EE0BDB0D6BA}|EntidadesBD\\EntidadesBD.csproj|D:\\users\\User\\Desktop\\menteSana\\CRUDMenteSana\\entidadesbd\\cita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1D771C83-5071-4585-B9CF-9EE0BDB0D6BA}|EntidadesBD\\EntidadesBD.csproj|C:\\Users\\Admin\\menteSana\\CRUDMenteSana\\entidadesbd\\cita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1D771C83-5071-4585-B9CF-9EE0BDB0D6BA}|EntidadesBD\\EntidadesBD.csproj|solutionrelative:entidadesbd\\cita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D771C83-5071-4585-B9CF-9EE0BDB0D6BA}|EntidadesBD\\EntidadesBD.csproj|D:\\users\\User\\Desktop\\menteSana\\CRUDMenteSana\\entidadesbd\\estado_emocional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D771C83-5071-4585-B9CF-9EE0BDB0D6BA}|EntidadesBD\\EntidadesBD.csproj|solutionrelative:entidadesbd\\estado_emocional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Downloads\\CRUDMenteSana\\AccesoDatos\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -53,8 +64,7 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\users\\User\\Documents\\Proyectos\\menteSana\\CRUDMenteSana\\LogicaN\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1B91FE8-1654-4BC3-B9BD-4544E023809D}|MenteSanaPre\\MenteSanaPre.csproj|D:\\users\\User\\Desktop\\menteSana\\CRUDMenteSana\\mentesanapre\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1B91FE8-1654-4BC3-B9BD-4544E023809D}|MenteSanaPre\\MenteSanaPre.csproj|solutionrelative:mentesanapre\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F1B91FE8-1654-4BC3-B9BD-4544E023809D}|MenteSanaPre\\MenteSanaPre.csproj|c:\\users\\admin\\mentesana\\crudmentesana\\mentesanapre\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -64,40 +74,132 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MenteSanaPre",
+              "DocumentMoniker": "C:\\Users\\Admin\\menteSana\\CRUDMenteSana\\MenteSanaPre\\MenteSanaPre.csproj",
+              "RelativeDocumentMoniker": "MenteSanaPre\\MenteSanaPre.csproj",
+              "ToolTip": "C:\\Users\\Admin\\menteSana\\CRUDMenteSana\\MenteSanaPre\\MenteSanaPre.csproj",
+              "RelativeToolTip": "MenteSanaPre\\MenteSanaPre.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-30T04:04:01.588Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "FrmCRUD.cs",
-              "DocumentMoniker": "D:\\users\\User\\Desktop\\menteSana\\CRUDMenteSana\\MenteSanaPre\\FrmCRUD.cs",
+              "Title": "PersonaLn.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\menteSana\\CRUDMenteSana\\LogicaN\\PersonaLn.cs",
+              "RelativeDocumentMoniker": "LogicaN\\PersonaLn.cs",
+              "ToolTip": "C:\\Users\\Admin\\menteSana\\CRUDMenteSana\\LogicaN\\PersonaLn.cs",
+              "RelativeToolTip": "LogicaN\\PersonaLn.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwB8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T03:49:54.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Cita.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\menteSana\\CRUDMenteSana\\EntidadesBD\\Cita.cs",
+              "RelativeDocumentMoniker": "EntidadesBD\\Cita.cs",
+              "ToolTip": "C:\\Users\\Admin\\menteSana\\CRUDMenteSana\\EntidadesBD\\Cita.cs",
+              "RelativeToolTip": "EntidadesBD\\Cita.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T15:47:18.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClsDatos.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\menteSana\\CRUDMenteSana\\AccesoDatos\\ClsDatos.cs",
+              "RelativeDocumentMoniker": "AccesoDatos\\ClsDatos.cs",
+              "ToolTip": "C:\\Users\\Admin\\menteSana\\CRUDMenteSana\\AccesoDatos\\ClsDatos.cs",
+              "RelativeToolTip": "AccesoDatos\\ClsDatos.cs",
+              "ViewState": "AQIAANcAAAAAAAAAAAAnwOsAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T15:25:57.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\menteSana\\CRUDMenteSana\\MenteSanaPre\\Program.cs",
+              "RelativeDocumentMoniker": "MenteSanaPre\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\menteSana\\CRUDMenteSana\\MenteSanaPre\\Program.cs",
+              "RelativeToolTip": "MenteSanaPre\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T15:45:20.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmCRUD.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Admin\\menteSana\\CRUDMenteSana\\MenteSanaPre\\FrmCRUD.cs",
               "RelativeDocumentMoniker": "MenteSanaPre\\FrmCRUD.cs",
-              "ToolTip": "D:\\users\\User\\Desktop\\menteSana\\CRUDMenteSana\\MenteSanaPre\\FrmCRUD.cs",
+              "ToolTip": "C:\\Users\\Admin\\menteSana\\CRUDMenteSana\\MenteSanaPre\\FrmCRUD.cs [Dise\u00F1o]",
+              "RelativeToolTip": "MenteSanaPre\\FrmCRUD.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T01:55:09.397Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmCRUD.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\menteSana\\CRUDMenteSana\\MenteSanaPre\\FrmCRUD.cs",
+              "RelativeDocumentMoniker": "MenteSanaPre\\FrmCRUD.cs",
+              "ToolTip": "C:\\Users\\Admin\\menteSana\\CRUDMenteSana\\MenteSanaPre\\FrmCRUD.cs",
               "RelativeToolTip": "MenteSanaPre\\FrmCRUD.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAiwD4AAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAowJAAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-30T02:09:48.155Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Reporte.cs",
-              "DocumentMoniker": "D:\\users\\User\\Desktop\\menteSana\\CRUDMenteSana\\EntidadesBD\\Reporte.cs",
-              "RelativeDocumentMoniker": "EntidadesBD\\Reporte.cs",
-              "ToolTip": "D:\\users\\User\\Desktop\\menteSana\\CRUDMenteSana\\EntidadesBD\\Reporte.cs",
-              "RelativeToolTip": "EntidadesBD\\Reporte.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\menteSana\\CRUDMenteSana\\EntidadesBD\\Persona.cs",
+              "RelativeDocumentMoniker": "EntidadesBD\\Persona.cs",
+              "ToolTip": "C:\\Users\\Admin\\menteSana\\CRUDMenteSana\\EntidadesBD\\Persona.cs",
+              "RelativeToolTip": "EntidadesBD\\Persona.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACAAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T15:48:26.008Z"
+              "WhenOpened": "2025-09-24T15:40:48.09Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
+              "Title": "Recomendacion.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\menteSana\\CRUDMenteSana\\EntidadesBD\\Recomendacion.cs",
+              "RelativeDocumentMoniker": "EntidadesBD\\Recomendacion.cs",
+              "ToolTip": "C:\\Users\\Admin\\menteSana\\CRUDMenteSana\\EntidadesBD\\Recomendacion.cs",
+              "RelativeToolTip": "EntidadesBD\\Recomendacion.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T15:47:38.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Alerta.cs",
-              "DocumentMoniker": "D:\\users\\User\\Desktop\\menteSana\\CRUDMenteSana\\EntidadesBD\\Alerta.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\menteSana\\CRUDMenteSana\\EntidadesBD\\Alerta.cs",
               "RelativeDocumentMoniker": "EntidadesBD\\Alerta.cs",
-              "ToolTip": "D:\\users\\User\\Desktop\\menteSana\\CRUDMenteSana\\EntidadesBD\\Alerta.cs",
+              "ToolTip": "C:\\Users\\Admin\\menteSana\\CRUDMenteSana\\EntidadesBD\\Alerta.cs",
               "RelativeToolTip": "EntidadesBD\\Alerta.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -106,95 +208,48 @@
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Recomendacion.cs",
-              "DocumentMoniker": "D:\\users\\User\\Desktop\\menteSana\\CRUDMenteSana\\EntidadesBD\\Recomendacion.cs",
-              "RelativeDocumentMoniker": "EntidadesBD\\Recomendacion.cs",
-              "ToolTip": "D:\\users\\User\\Desktop\\menteSana\\CRUDMenteSana\\EntidadesBD\\Recomendacion.cs",
-              "RelativeToolTip": "EntidadesBD\\Recomendacion.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAiAAAAAAAAAA==",
+              "Title": "RolLn.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\menteSana\\CRUDMenteSana\\LogicaN\\RolLn.cs",
+              "RelativeDocumentMoniker": "LogicaN\\RolLn.cs",
+              "ToolTip": "C:\\Users\\Admin\\menteSana\\CRUDMenteSana\\LogicaN\\RolLn.cs",
+              "RelativeToolTip": "LogicaN\\RolLn.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T15:47:38.104Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Cita.cs",
-              "DocumentMoniker": "D:\\users\\User\\Desktop\\menteSana\\CRUDMenteSana\\EntidadesBD\\Cita.cs",
-              "RelativeDocumentMoniker": "EntidadesBD\\Cita.cs",
-              "ToolTip": "D:\\users\\User\\Desktop\\menteSana\\CRUDMenteSana\\EntidadesBD\\Cita.cs",
-              "RelativeToolTip": "EntidadesBD\\Cita.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T15:47:18.49Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ClsDatos.cs",
-              "DocumentMoniker": "D:\\users\\User\\Desktop\\menteSana\\CRUDMenteSana\\AccesoDatos\\ClsDatos.cs",
-              "RelativeDocumentMoniker": "AccesoDatos\\ClsDatos.cs",
-              "ToolTip": "D:\\users\\User\\Desktop\\menteSana\\CRUDMenteSana\\AccesoDatos\\ClsDatos.cs",
-              "RelativeToolTip": "AccesoDatos\\ClsDatos.cs",
-              "ViewState": "AgIAAMoAAAAAAAAAAAAcwOEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T15:25:57.536Z",
+              "WhenOpened": "2025-09-30T03:35:15.08Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FrmCRUD.cs [Dise\u00F1o]",
-              "DocumentMoniker": "D:\\users\\User\\Desktop\\menteSana\\CRUDMenteSana\\MenteSanaPre\\FrmCRUD.cs",
-              "RelativeDocumentMoniker": "MenteSanaPre\\FrmCRUD.cs",
-              "ToolTip": "D:\\users\\User\\Desktop\\menteSana\\CRUDMenteSana\\MenteSanaPre\\FrmCRUD.cs [Dise\u00F1o]",
-              "RelativeToolTip": "MenteSanaPre\\FrmCRUD.cs [Dise\u00F1o]",
+              "DocumentIndex": 9,
+              "Title": "Reporte.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\menteSana\\CRUDMenteSana\\EntidadesBD\\Reporte.cs",
+              "RelativeDocumentMoniker": "EntidadesBD\\Reporte.cs",
+              "ToolTip": "C:\\Users\\Admin\\menteSana\\CRUDMenteSana\\EntidadesBD\\Reporte.cs",
+              "RelativeToolTip": "EntidadesBD\\Reporte.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T01:55:09.397Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PersonaLn.cs",
-              "DocumentMoniker": "D:\\users\\User\\Desktop\\menteSana\\CRUDMenteSana\\LogicaN\\PersonaLn.cs",
-              "RelativeDocumentMoniker": "LogicaN\\PersonaLn.cs",
-              "ToolTip": "D:\\users\\User\\Desktop\\menteSana\\CRUDMenteSana\\LogicaN\\PersonaLn.cs",
-              "RelativeToolTip": "LogicaN\\PersonaLn.cs",
-              "ViewState": "AgIAAHUAAAAAAAAAAAA4wFAAAABNAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T04:45:28.328Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Persona.cs",
-              "DocumentMoniker": "D:\\users\\User\\Desktop\\menteSana\\CRUDMenteSana\\EntidadesBD\\Persona.cs",
-              "RelativeDocumentMoniker": "EntidadesBD\\Persona.cs",
-              "ToolTip": "D:\\users\\User\\Desktop\\menteSana\\CRUDMenteSana\\EntidadesBD\\Persona.cs",
-              "RelativeToolTip": "EntidadesBD\\Persona.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAAAC0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T15:40:48.09Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Estado_Emocional.cs",
-              "DocumentMoniker": "D:\\users\\User\\Desktop\\menteSana\\CRUDMenteSana\\EntidadesBD\\Estado_Emocional.cs",
-              "RelativeDocumentMoniker": "EntidadesBD\\Estado_Emocional.cs",
-              "ToolTip": "D:\\users\\User\\Desktop\\menteSana\\CRUDMenteSana\\EntidadesBD\\Estado_Emocional.cs",
-              "RelativeToolTip": "EntidadesBD\\Estado_Emocional.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCIAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T15:47:02.169Z"
+              "WhenOpened": "2025-09-24T15:48:26.008Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "Estado_Emocional.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\menteSana\\CRUDMenteSana\\EntidadesBD\\Estado_Emocional.cs",
+              "RelativeDocumentMoniker": "EntidadesBD\\Estado_Emocional.cs",
+              "ToolTip": "C:\\Users\\Admin\\menteSana\\CRUDMenteSana\\EntidadesBD\\Estado_Emocional.cs",
+              "RelativeToolTip": "EntidadesBD\\Estado_Emocional.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T15:47:02.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Rol.cs",
-              "DocumentMoniker": "D:\\users\\User\\Desktop\\menteSana\\CRUDMenteSana\\EntidadesBD\\Rol.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\menteSana\\CRUDMenteSana\\EntidadesBD\\Rol.cs",
               "RelativeDocumentMoniker": "EntidadesBD\\Rol.cs",
-              "ToolTip": "D:\\users\\User\\Desktop\\menteSana\\CRUDMenteSana\\EntidadesBD\\Rol.cs",
+              "ToolTip": "C:\\Users\\Admin\\menteSana\\CRUDMenteSana\\EntidadesBD\\Rol.cs",
               "RelativeToolTip": "EntidadesBD\\Rol.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -202,35 +257,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\users\\User\\Desktop\\menteSana\\CRUDMenteSana\\MenteSanaPre\\Program.cs",
-              "RelativeDocumentMoniker": "MenteSanaPre\\Program.cs",
-              "ToolTip": "D:\\users\\User\\Desktop\\menteSana\\CRUDMenteSana\\MenteSanaPre\\Program.cs",
-              "RelativeToolTip": "MenteSanaPre\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T15:45:20.7Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "Class1.cs",
               "DocumentMoniker": "D:\\users\\User\\Documents\\Proyectos\\menteSana\\CRUDMenteSana\\LogicaN\\Class1.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\Documents\\Proyectos\\menteSana\\CRUDMenteSana\\LogicaN\\Class1.cs",
               "ToolTip": "D:\\users\\User\\Documents\\Proyectos\\menteSana\\CRUDMenteSana\\LogicaN\\Class1.cs",
-              "RelativeToolTip": "..\\..\\..\\Documents\\Proyectos\\menteSana\\CRUDMenteSana\\LogicaN\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-24T15:43:28.125Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\CRUDMenteSana\\AccesoDatos\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Usuario\\Downloads\\CRUDMenteSana\\AccesoDatos\\Class1.cs",
               "ToolTip": "C:\\Users\\Usuario\\Downloads\\CRUDMenteSana\\AccesoDatos\\Class1.cs",
+              "RelativeToolTip": "..\\..\\..\\Usuario\\Downloads\\CRUDMenteSana\\AccesoDatos\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-24T15:39:46.566Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 34,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }

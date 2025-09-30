@@ -119,5 +119,30 @@ namespace MenteSanaPre
             cmbRol.SelectedValue = 1;
 
         }
+
+        private void btnEliminar_Click(object sender, EventArgs e)
+        {
+            objPersona = new Persona()
+            {
+                Id_persona = txtDocumento.Text,
+
+            };
+            objPersonaLn.Delete(ref objPersona);
+            CargarListaClientes();
+
+            if (objPersona.MensajeError == null)
+            {
+                MessageBox.Show("El cliente: " + objPersona.Nombres + "Fue eliminado con éxito" + MessageBoxButtons.OK + MessageBoxIcon.Information);
+            }
+            else
+            {
+                MessageBox.Show("El cliente: " + objPersona.Nombres + "NO fue eliminado con éxito " + MessageBoxButtons.OK + MessageBoxIcon.Error);
+            }
+            txtDocumento.Text = "";
+            txtNombre.Text = "";
+            txtApellidos.Text = "";
+            txtCorreo.Text = "";
+            txtContraseña.Text = "";
+        }
     }
 }

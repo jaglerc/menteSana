@@ -12,3 +12,10 @@ D:\users\User\Desktop\menteSana\CRUDMenteSana\AccesoDatos\obj\Debug\AccesoDatos.
 D:\users\User\Desktop\menteSana\CRUDMenteSana\AccesoDatos\obj\Debug\AccesoDatos.csproj.CoreCompileInputs.cache
 D:\users\User\Desktop\menteSana\CRUDMenteSana\AccesoDatos\obj\Debug\AccesoDatos.dll
 D:\users\User\Desktop\menteSana\CRUDMenteSana\AccesoDatos\obj\Debug\AccesoDatos.pdb
+C:\Users\Admin\menteSana\CRUDMenteSana\AccesoDatos\bin\Debug\AccesoDatos.dll.config
+C:\Users\Admin\menteSana\CRUDMenteSana\AccesoDatos\bin\Debug\AccesoDatos.dll
+C:\Users\Admin\menteSana\CRUDMenteSana\AccesoDatos\bin\Debug\AccesoDatos.pdb
+C:\Users\Admin\menteSana\CRUDMenteSana\AccesoDatos\obj\Debug\AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\Admin\menteSana\CRUDMenteSana\AccesoDatos\obj\Debug\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Admin\menteSana\CRUDMenteSana\AccesoDatos\obj\Debug\AccesoDatos.dll
+C:\Users\Admin\menteSana\CRUDMenteSana\AccesoDatos\obj\Debug\AccesoDatos.pdb
