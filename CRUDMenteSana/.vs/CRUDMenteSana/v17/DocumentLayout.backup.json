@@ -3,44 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\Usuario\\Downloads\\CRUDMenteSana\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1654A2AC-272B-4499-9CDC-C90C9473834F}|AccesoDatos\\AccesoDatos.csproj|c:\\users\\usuario\\downloads\\crudmentesana\\accesodatos\\clsdatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1654A2AC-272B-4499-9CDC-C90C9473834F}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\clsdatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1D771C83-5071-4585-B9CF-9EE0BDB0D6BA}|EntidadesBD\\EntidadesBD.csproj|c:\\users\\usuario\\downloads\\crudmentesana\\entidadesbd\\alerta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1D771C83-5071-4585-B9CF-9EE0BDB0D6BA}|EntidadesBD\\EntidadesBD.csproj|solutionrelative:entidadesbd\\alerta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D771C83-5071-4585-B9CF-9EE0BDB0D6BA}|EntidadesBD\\EntidadesBD.csproj|c:\\users\\usuario\\downloads\\crudmentesana\\entidadesbd\\recomendacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1D771C83-5071-4585-B9CF-9EE0BDB0D6BA}|EntidadesBD\\EntidadesBD.csproj|C:\\Users\\Usuario\\Downloads\\CRUDMenteSana\\entidadesbd\\recomendacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1D771C83-5071-4585-B9CF-9EE0BDB0D6BA}|EntidadesBD\\EntidadesBD.csproj|solutionrelative:entidadesbd\\recomendacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D771C83-5071-4585-B9CF-9EE0BDB0D6BA}|EntidadesBD\\EntidadesBD.csproj|c:\\users\\usuario\\downloads\\crudmentesana\\entidadesbd\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1D771C83-5071-4585-B9CF-9EE0BDB0D6BA}|EntidadesBD\\EntidadesBD.csproj|C:\\Users\\Usuario\\Downloads\\CRUDMenteSana\\entidadesbd\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1D771C83-5071-4585-B9CF-9EE0BDB0D6BA}|EntidadesBD\\EntidadesBD.csproj|solutionrelative:entidadesbd\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D771C83-5071-4585-B9CF-9EE0BDB0D6BA}|EntidadesBD\\EntidadesBD.csproj|c:\\users\\usuario\\downloads\\crudmentesana\\entidadesbd\\reporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1D771C83-5071-4585-B9CF-9EE0BDB0D6BA}|EntidadesBD\\EntidadesBD.csproj|C:\\Users\\Usuario\\Downloads\\CRUDMenteSana\\entidadesbd\\reporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1D771C83-5071-4585-B9CF-9EE0BDB0D6BA}|EntidadesBD\\EntidadesBD.csproj|solutionrelative:entidadesbd\\reporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D771C83-5071-4585-B9CF-9EE0BDB0D6BA}|EntidadesBD\\EntidadesBD.csproj|c:\\users\\usuario\\downloads\\crudmentesana\\entidadesbd\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1D771C83-5071-4585-B9CF-9EE0BDB0D6BA}|EntidadesBD\\EntidadesBD.csproj|C:\\Users\\Usuario\\Downloads\\CRUDMenteSana\\entidadesbd\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1D771C83-5071-4585-B9CF-9EE0BDB0D6BA}|EntidadesBD\\EntidadesBD.csproj|solutionrelative:entidadesbd\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D771C83-5071-4585-B9CF-9EE0BDB0D6BA}|EntidadesBD\\EntidadesBD.csproj|c:\\users\\usuario\\downloads\\crudmentesana\\entidadesbd\\cita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1D771C83-5071-4585-B9CF-9EE0BDB0D6BA}|EntidadesBD\\EntidadesBD.csproj|C:\\Users\\Usuario\\Downloads\\CRUDMenteSana\\entidadesbd\\cita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1D771C83-5071-4585-B9CF-9EE0BDB0D6BA}|EntidadesBD\\EntidadesBD.csproj|solutionrelative:entidadesbd\\cita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D771C83-5071-4585-B9CF-9EE0BDB0D6BA}|EntidadesBD\\EntidadesBD.csproj|c:\\users\\usuario\\downloads\\crudmentesana\\entidadesbd\\estado_emocional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1D771C83-5071-4585-B9CF-9EE0BDB0D6BA}|EntidadesBD\\EntidadesBD.csproj|C:\\Users\\Usuario\\Downloads\\CRUDMenteSana\\entidadesbd\\estado_emocional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1D771C83-5071-4585-B9CF-9EE0BDB0D6BA}|EntidadesBD\\EntidadesBD.csproj|solutionrelative:entidadesbd\\estado_emocional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FD6F7989-EC1C-4864-B918-341310363EF1}|LogicaN\\LogicaN.csproj|c:\\users\\usuario\\downloads\\crudmentesana\\logican\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FD6F7989-EC1C-4864-B918-341310363EF1}|LogicaN\\LogicaN.csproj|C:\\Users\\Usuario\\Downloads\\CRUDMenteSana\\logican\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FD6F7989-EC1C-4864-B918-341310363EF1}|LogicaN\\LogicaN.csproj|solutionrelative:logican\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA565405-40C2-44CA-ACEA-48F1DC8D65B3}|MenteSanaPre\\MenteSanaPre.csproj|c:\\users\\usuario\\downloads\\crudmentesana\\mentesanapre\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CA565405-40C2-44CA-ACEA-48F1DC8D65B3}|MenteSanaPre\\MenteSanaPre.csproj|C:\\Users\\Usuario\\Downloads\\CRUDMenteSana\\mentesanapre\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA565405-40C2-44CA-ACEA-48F1DC8D65B3}|MenteSanaPre\\MenteSanaPre.csproj|solutionrelative:mentesanapre\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1654A2AC-272B-4499-9CDC-C90C9473834F}|AccesoDatos\\AccesoDatos.csproj|c:\\users\\usuario\\downloads\\crudmentesana\\accesodatos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1654A2AC-272B-4499-9CDC-C90C9473834F}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Downloads\\CRUDMenteSana\\AccesoDatos\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AccesoDatos\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,11 +54,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "ClsDatos.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\CRUDMenteSana\\AccesoDatos\\ClsDatos.cs",
+              "RelativeDocumentMoniker": "AccesoDatos\\ClsDatos.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\CRUDMenteSana\\AccesoDatos\\ClsDatos.cs",
+              "RelativeToolTip": "AccesoDatos\\ClsDatos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T15:25:57.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Reporte.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\CRUDMenteSana\\EntidadesBD\\Reporte.cs",
               "RelativeDocumentMoniker": "EntidadesBD\\Reporte.cs",
@@ -62,12 +79,11 @@
               "RelativeToolTip": "EntidadesBD\\Reporte.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T15:48:26.008Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-24T15:48:26.008Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Alerta.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\CRUDMenteSana\\EntidadesBD\\Alerta.cs",
               "RelativeDocumentMoniker": "EntidadesBD\\Alerta.cs",
@@ -80,7 +96,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Recomendacion.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\CRUDMenteSana\\EntidadesBD\\Recomendacion.cs",
               "RelativeDocumentMoniker": "EntidadesBD\\Recomendacion.cs",
@@ -88,12 +104,11 @@
               "RelativeToolTip": "EntidadesBD\\Recomendacion.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T15:47:38.104Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-24T15:47:38.104Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Cita.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\CRUDMenteSana\\EntidadesBD\\Cita.cs",
               "RelativeDocumentMoniker": "EntidadesBD\\Cita.cs",
@@ -101,12 +116,11 @@
               "RelativeToolTip": "EntidadesBD\\Cita.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T15:47:18.49Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-24T15:47:18.49Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Estado_Emocional.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\CRUDMenteSana\\EntidadesBD\\Estado_Emocional.cs",
               "RelativeDocumentMoniker": "EntidadesBD\\Estado_Emocional.cs",
@@ -114,12 +128,11 @@
               "RelativeToolTip": "EntidadesBD\\Estado_Emocional.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAQwCIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T15:47:02.169Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-24T15:47:02.169Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Rol.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\CRUDMenteSana\\EntidadesBD\\Rol.cs",
               "RelativeDocumentMoniker": "EntidadesBD\\Rol.cs",
@@ -127,12 +140,11 @@
               "RelativeToolTip": "EntidadesBD\\Rol.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T15:46:30.701Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-24T15:46:30.701Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\CRUDMenteSana\\MenteSanaPre\\Program.cs",
               "RelativeDocumentMoniker": "MenteSanaPre\\Program.cs",
@@ -140,12 +152,11 @@
               "RelativeToolTip": "MenteSanaPre\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T15:45:20.7Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-24T15:45:20.7Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\CRUDMenteSana\\LogicaN\\Class1.cs",
               "RelativeDocumentMoniker": "LogicaN\\Class1.cs",
@@ -153,12 +164,11 @@
               "RelativeToolTip": "LogicaN\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T15:43:28.125Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-24T15:43:28.125Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Persona.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\CRUDMenteSana\\EntidadesBD\\Persona.cs",
               "RelativeDocumentMoniker": "EntidadesBD\\Persona.cs",
@@ -166,12 +176,11 @@
               "RelativeToolTip": "EntidadesBD\\Persona.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAACGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T15:40:48.09Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-24T15:40:48.09Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\CRUDMenteSana\\AccesoDatos\\Class1.cs",
               "RelativeDocumentMoniker": "AccesoDatos\\Class1.cs",
@@ -179,8 +188,7 @@
               "RelativeToolTip": "AccesoDatos\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T15:39:46.566Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-24T15:39:46.566Z"
             }
           ]
         }
