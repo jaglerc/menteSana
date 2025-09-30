@@ -59,5 +59,65 @@ namespace MenteSanaPre
         {
 
         }
+
+        private void btnAgregar_Click(object sender, EventArgs e)
+        {
+            objPersona = new Persona()
+            {
+                Id_persona = txtDocumento.Text,
+                Nombres = txtNombre.Text,
+                Apellidos = txtApellidos.Text,
+                Correo_institucional = txtCorreo.Text,
+                Contraseña = txtContraseña.Text,
+                Id_rol = Convert.ToInt32(cmbRol.SelectedValue.ToString()),
+            };
+            objPersonaLn.Create(ref objPersona);
+            CargarListaClientes();
+            if (objPersona.MensajeError == null)
+            {
+                MessageBox.Show("El cliente: " + objPersona.Nombres + " Fue agregado con éxito " + MessageBoxButtons.OK + MessageBoxIcon.Information);
+            }
+            else
+            {
+                MessageBox.Show("El cliente: " + objPersona.Nombres + " NO fue agregado con éxito " + MessageBoxButtons.OK + MessageBoxIcon.Error);
+            }
+            txtDocumento.Text = "";
+            txtNombre.Text = "";
+            txtApellidos.Text = "";
+            txtCorreo.Text = "";
+            txtContraseña.Text = "";
+            cmbRol.SelectedValue = 1;
+        }
+
+        private void btnModificar_Click(object sender, EventArgs e)
+        {
+            objPersona = new Persona()
+            {
+                Id_persona = txtDocumento.Text,
+                Nombres = txtNombre.Text,
+                Apellidos = txtApellidos.Text,
+                Correo_institucional = txtCorreo.Text,
+                Contraseña = txtContraseña.Text,
+                Id_rol = Convert.ToInt32(cmbRol.SelectedValue.ToString()),
+            };
+            objPersonaLn.Update(ref objPersona);
+
+            if (objPersona.MensajeError == null)
+            {
+                MessageBox.Show("la persona: " + objPersona.Nombres + " Fue actualizado con éxito " + MessageBoxButtons.OK + MessageBoxIcon.Information);
+                CargarListaClientes();
+            }
+            else
+            {
+                MessageBox.Show("la persona: " + objPersona.Nombres + " NO fue actualizado con éxito " + MessageBoxButtons.OK + MessageBoxIcon.Error);
+            }
+            txtDocumento.Text = "";
+            txtNombre.Text = "";
+            txtApellidos.Text = "";
+            txtCorreo.Text = "";
+            txtContraseña.Text = "";
+            cmbRol.SelectedValue = 1;
+
+        }
     }
 }

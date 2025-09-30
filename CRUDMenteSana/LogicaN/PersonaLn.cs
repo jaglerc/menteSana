@@ -78,7 +78,7 @@ namespace LogicaN
             ObjDatos.DtParametros.Rows.Add(@"@apellidos", "16", ObjPersona.Apellidos);
             ObjDatos.DtParametros.Rows.Add(@"@correo_institucional", "16", ObjPersona.Correo_institucional);
             ObjDatos.DtParametros.Rows.Add(@"@contraseña", "16", ObjPersona.Contraseña);
-            ObjDatos.DtParametros.Rows.Add(@"@id_persona", "4", ObjPersona.Id_persona);
+            ObjDatos.DtParametros.Rows.Add(@"@id_rol", "4", ObjPersona.Id_rol);
 
             Ejecutar(ref ObjPersona);
         }
@@ -91,12 +91,13 @@ namespace LogicaN
                 NombreSP = "[actualizar_Persona]",
                 Scalar = true
             };
-            ObjDatos.DtParametros.Rows.Add(@"@id_persona", "16", ObjPersona.Id_persona);
+            ObjDatos.DtParametros.Rows.Add(@"@id_persona", "4", ObjPersona.Id_persona);
             ObjDatos.DtParametros.Rows.Add(@"@nombres", "16", ObjPersona.Nombres);
             ObjDatos.DtParametros.Rows.Add(@"@apellidos", "16", ObjPersona.Apellidos);
             ObjDatos.DtParametros.Rows.Add(@"@correo_institucional", "16", ObjPersona.Correo_institucional);
             ObjDatos.DtParametros.Rows.Add(@"@contraseña", "16", ObjPersona.Contraseña);
-            ObjDatos.DtParametros.Rows.Add(@"@id_persona", "4", ObjPersona.Id_persona);
+            ObjDatos.DtParametros.Rows.Add(@"@id_rol", "4", ObjPersona.Id_rol);
+            
 
             Ejecutar(ref ObjPersona);
         }

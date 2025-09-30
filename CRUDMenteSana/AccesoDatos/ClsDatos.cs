@@ -226,11 +226,14 @@ namespace AccesoDatos
                 AgregarParametros(ref objDatos);
                 if (objDatos.Scalar)
                 {
-                    objDatos.ValorScalar = objDatos.ObjSqlCommand.ExecuteScalar().ToString().Trim();
+                    var result = objDatos.ObjSqlCommand.ExecuteScalar();
+                    objDatos.ValorScalar = (result == null || result == DBNull.Value)
+                        ? ""
+                        : result.ToString().Trim();
                 }
                 else
                 {
-                    objDatos.ObjSqlCommand.ExecuteNonQuery().ToString().Trim();
+                    objDatos.ObjSqlCommand.ExecuteNonQuery();
                 }
             }
             catch (Exception ex)
